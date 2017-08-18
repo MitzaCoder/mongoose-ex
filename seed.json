@@ -1,0 +1,80 @@
+{
+    "classes": [
+        {
+            "name": "Matematica",
+            "difficulty": 5,
+            "teachers": []
+        },
+        {
+            "name": "Romana",
+            "difficulty": 4,
+            "teachers": []
+        },
+        {
+            "name": "Informatica",
+            "difficulty": 5,
+            "teachers": []
+        }
+    ],
+    "teachers": [
+        {
+            "firstName": "Manuel",
+            "lastName": "Matei",
+            "experience": 8
+        },
+        {
+            "firstName": "Ioana",
+            "lastName": "Ignat",
+            "experience": 15
+        },
+        {
+            "firstName": "Monica",
+            "lastName": "Ilie",
+            "experience": 12
+        }
+    ],
+    "schools": [
+        {
+            "name": "Colegiul National Alexandru Odobescu",
+            "address": "Cartier Razboieni, Pitesti, Arges",
+            "teachers": []
+        },
+        {
+            "name": "Colegiul National Zinca Golescu",
+            "address": "Str Exercitiu, Pitesti, Arges",
+            "teachers": []
+        },
+        {
+            "name": "Grup Scolar Mozaceni",
+            "address": "Str Principala, Mozaceni, Arges",
+            "teachers": []
+        }
+    ],
+    "students": [
+        {
+            "firstName": "Mihai",
+            "lastName": "Saru",
+            "schoolYear": 11
+        },
+        {
+            "firstName": "Samyr",
+            "lastName": "Saru",
+            "schoolYear": 10
+        },
+        {
+            "firstName": "Stefan",
+            "lastName": "Chiha",
+            "schoolYear": 12
+        },
+        {
+            "firstName": "Alina",
+            "lastName": "Nanu",
+            "schoolYear": 11
+        },
+        {
+            "firstName": "George",
+            "lastName": "Saru",
+            "schoolYear": 9
+        }
+    ]
+}
